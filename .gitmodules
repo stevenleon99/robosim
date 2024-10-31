@@ -3,4 +3,4 @@
 	url = https://github.com/ocornut/imgui.git
 [submodule "lib/ImGuizmo"]
 	path = lib/ImGuizmo
-	url = https://github.com/CedricGuillemet/ImGuizmo/tree/090184e4b315bd508929a362c4d4fa9b36b1249f
+	url = git@github.com:CedricGuillemet/ImGuizmo.git
